@@ -1,0 +1,3 @@
+<?
+echo"ayush php"
+?>
